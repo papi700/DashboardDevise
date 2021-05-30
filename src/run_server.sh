@@ -1,0 +1,1 @@
+/mnt/e/PythonProjects/Django1/venv/Scripts/python.exe /mnt/e/PythonProjects/Django1/src/manage.py runserver
